@@ -1,0 +1,32 @@
+img {
+    display: block;
+}
+
+.card-header {
+    font-size: 25px
+    } 
+
+.wrapper {
+
+    width: 950px; 
+    float: right;
+    background-color: antiquewhite;
+}
+
+.wrapper-2 {
+        float: top;
+    width: 950px;
+    background-color: antiquewhite;
+   
+}
+.wrapper-2 .card {
+    background-color: rgb(194, 194, 19)
+}
+
+
+.card {
+    background-color: rgb(74, 144, 250);
+    display: inline-block;
+    box-sizing: border-box;
+}
+
